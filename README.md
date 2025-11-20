@@ -1,7 +1,7 @@
 ## Aluraplus
-Plataforma de streaming da Alura
+### Plataforma de Streaming da Alura
 
-Esse projeto foi desenvolvido para praticar e aprimorar meus conhecimentos em HTML e CSS.
+### Esse projeto foi desenvolvido para praticar e aprimorar meus conhecimentos em HTML e CSS.
 
 ## 🚀 Tecnologias utilizadas  
 
