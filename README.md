@@ -1,4 +1,4 @@
-## Aluraplus
+## 💻 Aluraplus
 ### Plataforma de Streaming da Alura
 
 ### Esse projeto foi desenvolvido para praticar e aprimorar meus conhecimentos em HTML e CSS.
@@ -18,4 +18,4 @@
 
 ---
 
-Feito com ❤️ por [Vi](https://github.com/VitoriamColombo)
+Feito com 💖 por [Vi](https://github.com/VitoriamColombo)
