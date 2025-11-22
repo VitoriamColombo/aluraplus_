@@ -1,9 +1,9 @@
 ## 💻 Aluraplus
 ### Plataforma de Streaming da Alura
 
-### Esse projeto foi desenvolvido para praticar e aprimorar meus conhecimentos em HTML e CSS.
+Esse projeto foi desenvolvido para praticar e aprimorar meus conhecimentos em HTML e CSS.
 
-## 🚀 Tecnologias utilizadas  
+### 🚀 Tecnologias utilizadas  
 
 **HTML5** • **CSS3** • **Flexbox** • **CSS Grid** • **Variáveis CSS** • **Media Queries** • **Figma** • **GitHub**
 
@@ -25,6 +25,8 @@
 
 ---
 
-<p align="center">
+<div align="center">
+  
 Feito com 💖 por [Vi](https://github.com/VitoriamColombo)
-</p>
+
+</div>
