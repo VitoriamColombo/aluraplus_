@@ -9,12 +9,19 @@
 
 ---
 
-🔗 **Acesse o projeto publicado:**  
+### 🔗 **Acesse o projeto publicado:**  
 [https://vitoriamcolombo.github.io/aluraplus_/](https://vitoriamcolombo.github.io/aluraplus_/)
 
-### 🎨 Design no Figma
+---
 
-💻 **Versão Web:** [Ver design no Figma](https://www.figma.com/design/tFDVyNuKhrT2G03k2dCstW/Alura-Plus---Layout?node-id=0-1&m=dev&t=2kxjQWrw39kpARb0-1)  
+### 📸 Prévia do projeto
+
+💻 **Versão Web:**  
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3a09dee5-bc06-4569-8d86-a565710cdd36" width="600" alt="Versão Web" />
+</p>
+
 
 ---
 
