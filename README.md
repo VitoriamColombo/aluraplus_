@@ -14,7 +14,7 @@
 
 ---
 
-### 📸 Prévia do projeto
+### 📸 Prévia do projeto:
 
 💻 **Versão Web:**  
 
@@ -25,4 +25,6 @@
 
 ---
 
+<p align="center">
 Feito com 💖 por [Vi](https://github.com/VitoriamColombo)
+</p>
