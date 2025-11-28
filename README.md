@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido para praticar e aprimorar meus conhecimentos em HT
 ---
 
 ### 🔗 **Acesse o projeto publicado:**  
-[https://vitoriamcolombo.github.io/aluraplus_/](https://vitoriamcolombo.github.io/aluraplus_/)
+👉🏻 <a href="https://vitoriamcolombo.github.io/aluraplus_/" target="_blank" rel="noopener noreferrer">Ver site online</a>
 
 ---
 
