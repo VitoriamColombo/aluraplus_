@@ -19,7 +19,7 @@ Esse projeto foi desenvolvido para praticar e aprimorar meus conhecimentos em HT
 💻 **Versão Web:**  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3a09dee5-bc06-4569-8d86-a565710cdd36" width="600" alt="Versão Web" />
+  <img src="https://github.com/user-attachments/assets/8a61f9ea-fd76-4aff-af16-6eeaa308d42c" width="600" alt="Versão Web" />
 </p>
 
 
